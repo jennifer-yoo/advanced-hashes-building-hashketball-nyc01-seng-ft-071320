@@ -9,11 +9,11 @@ def game_hash
         :shoe => 16
         :points => 22
         :rebounds => 12
-        :assists => 12 
+        :assists => 12
         :steals => 3
         :blocks => 1
-        :slam_dunks => 1 
-        , 
+        :slam_dunks => 1
+        ,
         :player_name => "Reggie Evans"
         :number => 30
         :shoe => 14
@@ -21,15 +21,15 @@ def game_hash
         :rebounds => 12
         :assists => 12
         :steals => 12
-        :blocks => 12 
+        :blocks => 12
         :slam_dunks => 7
         ,
         :player_name => "Brook Lopez"
         :number => 11
         :shoe => 17
         :points => 17
-        :rebounds => 19 
-        :assists => 10 
+        :rebounds => 19
+        :assists => 10
         :steals => 3
         :blocks => 1
         :slam_dunks => 15
@@ -42,7 +42,7 @@ def game_hash
         :assists => 6
         :steals => 3
         :blocks => 8
-        :slam_dunks => 5 
+        :slam_dunks => 5
         ,
         :player_name => "Jason Terry"
         :number => 31
@@ -66,11 +66,11 @@ def game_hash
         :shoe => 18
         :points => 10
         :rebounds => 1
-        :assists => 1 
+        :assists => 1
         :steals => 2
         :blocks => 7
         :slam_dunks => 2
-        , 
+        ,
         :player_name => "Bismack Biyombo"
         :number => 0
         :shoe => 16
